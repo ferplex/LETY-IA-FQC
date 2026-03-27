@@ -1,0 +1,8 @@
+bin/
+lib/
+include/
+pyvenv.cfg
+__pycache__/
+*.mp3
+auditoria_fqc.log
+eliza_output.json
